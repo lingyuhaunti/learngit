@@ -1,0 +1,2 @@
+I test the git add funciton.
+This is the first txt file.

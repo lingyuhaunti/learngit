@@ -1,0 +1,2 @@
+I test the add function.
+This is the third txt file.
